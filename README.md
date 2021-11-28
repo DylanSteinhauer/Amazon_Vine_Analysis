@@ -10,6 +10,6 @@ This analysis does not find any positivity bias for reviews in the Vine program.
 Out of the 40,565 total reviews, only 94 of them were from paid vine reviews. While there were a greater percentage 
 of 5 star reviews for paid (51.06%) than unpaid (38.70%), this is a relatively small differential and the sample size of 
 paid reviews is too small to conclude that there is positivity bias.
-One additional analysis we could do to get a better idea of potential bias would be to look at 1 star reviews as well. 
+One additional analysis we could do is look at 1 star reviews as well. 
 Determining if there are significantly more 1 star reviews in the unpaid category could give a better idea 
 as to whether there is bias.
